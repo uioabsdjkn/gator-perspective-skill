@@ -1,0 +1,34 @@
+MIT License
+
+Copyright (c) 2026 uioabsdjkn
+
+本项目的 Skill 生成框架来自「女娲 · Skill造人术」，
+Copyright (c) 2026 Huashu (花叔) — https://github.com/alchaincyf/nuwa-skill
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+NOTICE
+
+1. 本项目所含的分析文本、心智模型提炼与代码采用上述 MIT 许可。
+2. 原始语料（「像鳄鱼一样思考」「获得信息差」公众号文章）版权归原作者所有，
+   不在本许可范围内。本项目未复制语料原文，仅包含分析、归纳与有限引用。
+3. 本项目不是原作者授权或背书的产物，不代表原作者观点。
+4. 本项目不构成任何投资建议。

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+articles/
+*.html
+corpus.json
+index.json
+list_*.json
+.DS_Store
